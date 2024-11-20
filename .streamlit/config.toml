@@ -1,0 +1,8 @@
+# Archivo: .streamlit/config.toml
+
+[theme]
+primaryColor = "#FF4500"             # Rojo fuerte (color principal)
+backgroundColor = "#FFE5E5"          # Rojo claro (color de fondo)
+secondaryBackgroundColor = "#FFD1D1" # Color de fondo secundario, más claro
+textColor = "#800000"                # Rojo oscuro para el texto
+font = "sans serif"                  # Fuente sans serif
